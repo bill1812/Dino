@@ -1,6 +1,6 @@
 ## Dinosaur game color version
 
-the Dinosaur game extracted from chrome offline error page or [url](chrome://dino/).
+the Dinosaur game extracted from chrome offline error page or url chrome://dino/.
 
 see the Chromium [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7)
 
