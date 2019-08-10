@@ -807,6 +807,10 @@ html[subframe] body {
 }
 
 .offline .runner-canvas {
+  /* cssgradient.io/ */
+  background: rgb(253, 187, 45);
+  background: linear-gradient(0deg, rgba(253,187,45,0.75) 0%, rgba(200,243,245,0.50) 35%, rgba(159,237,249,1) 100%);
+
   height: 150px;
   max-width: 600px;
   opacity: 1;
